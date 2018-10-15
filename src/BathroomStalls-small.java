@@ -1,7 +1,7 @@
 //GCJ Qualification Round 2017: C small
 import java.util.*;
 import java.io.*;
-public class BathroomStalls_small {
+public class BathroomStalls {
 	@SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
