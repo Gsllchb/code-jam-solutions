@@ -1,7 +1,7 @@
 //GCJ Qualification Round 2017: D small
 import java.util.*;
 import java.io.*;
-public class FashionShow_small {
+public class FashionShow {
 	@SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
