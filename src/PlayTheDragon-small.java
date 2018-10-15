@@ -11,7 +11,7 @@ class Status {
 	Action prev, prevPrev;
 }
 
-public class PlayTheDragon_small {
+public class PlayTheDragon {
 	@SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
