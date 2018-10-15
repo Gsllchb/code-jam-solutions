@@ -4,7 +4,7 @@ import java.util.*;
 import Jama.Matrix;
 
 import java.io.*;
-public class CloseMatch_small {
+public class CloseMatch {
 	@SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
