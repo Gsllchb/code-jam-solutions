@@ -1,5 +1,5 @@
 """https://code.google.com/codejam/contest/3254486/dashboard#s=p2&a=2
-Note that, this program will exceed the time limit on large input, but the algorithm is
+Note that, this program will exceed the time limit on large input. But this algorithm is
 correct. In order not to time out, you can use the Java implementation of this algorithm
 (MatrixCutting.java)."""
 from functools import lru_cache
