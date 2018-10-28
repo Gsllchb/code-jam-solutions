@@ -78,7 +78,6 @@ def get_distances(start, mat):
 
 
 if __name__ == '__main__':
-    sys.setrecursionlimit(26000000)
     if INPUT is None:
         main()
     else:
