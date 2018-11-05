@@ -1,7 +1,7 @@
 //GCJ Round 1C 2016: B small
 import java.util.*;
 import java.io.*;
-public class Slides_small {
+public class Solution {
 	@SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
