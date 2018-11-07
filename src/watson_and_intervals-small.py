@@ -1,4 +1,4 @@
-"""https://code.google.com/codejam/contest/12254486/dashboard#s=p2"""
+"""https://code.google.com/codejam/contest/12254486/dashboard#s=p3"""
 import sys
 
 
